@@ -14,6 +14,8 @@ https://github.com/Srineha92/online-bookstore.git
 ### LinkedIn
 Provide a link to your LinkedIn account here.
 
+https://www.linkedin.com/in/sri-neha-penumatsa-ab95a7167/
+
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
 
